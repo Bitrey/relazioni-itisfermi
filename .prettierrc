@@ -1,0 +1,9 @@
+{
+    "arrowParens": "avoid",
+    "endOfLine": "lf",
+    "htmlWhitespaceSensitivity": "ignore",
+    "jsxSingleQuote": false,
+    "printWidth": 100,
+    "tabWidth": 4,
+    "trailingComma": "none"
+}
